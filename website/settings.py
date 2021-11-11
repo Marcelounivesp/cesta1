@@ -187,3 +187,4 @@ LOGGING = {
     #},
 }
 """
+django_on_heroku.settings(locals())
