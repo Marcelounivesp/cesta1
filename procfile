@@ -1,0 +1,1 @@
+web: gunicorn cest1.wsgi --log-file -
