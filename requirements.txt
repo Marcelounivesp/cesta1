@@ -21,4 +21,4 @@ urllib3==1.26.7
 gunicorn==20.1.0
 bob-builder>=0.0.15
 s3cmd>=1.6.0
-php-8.0.12
+
